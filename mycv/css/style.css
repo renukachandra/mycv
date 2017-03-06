@@ -825,7 +825,7 @@ p {
 	position: absolute;
 	top: 0;
 	left: 0;
-	width: 110px;
+	width: 150px;
 	font-weight: bold;
 	font-size: 13px;
 	color: #ffffff;
@@ -1062,7 +1062,7 @@ a.pa_italic:focus {
 } 
 .faddress-w3left {
     float: left;
-    width: 49%;
+    width: 35%;
     position: relative;
 }
 .faddress-w3right {
